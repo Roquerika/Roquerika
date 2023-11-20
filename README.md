@@ -9,7 +9,6 @@
 - 👯 Deseo colaborar con proyectos de desarollo frontend.
 - 🤔 Estoy buscando ayuda sobre la creación de tests con JS y React.
 - 💬 Preguntame sobre lo que desees en el entrono tecnológico relacionado a HTML, CSS, JS, Jest, GitHub, react, typeScript, figma y los proyectos que he desarrollado, si no conozco la respuesta, puedo ayudarte a buscarla.
-- 📫 ¿Cómo contacatarme?: www.linkedin.com/in/erika-roque-51078b150
 - ⚡ Algo Curioso: Soy apasionada de las ciencias básicas, me gusta cocinar usando recetas de chefs reconocidos, leer historias de mujeres inspiradoras en italiano y escuchar una gran variedad de musica en español, inglés, francés e italiano.
 
 
