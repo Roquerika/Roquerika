@@ -4,7 +4,7 @@
 
 # 💫 Sobre mí:
 
-- 🔭 Actualmente estoy trabajando en el proyecto n° 5 del bootcamp de desaroollo web en Laboratoria: Movie Challenge with Framework (React con TypeScript).
+- 🔭 Actualmente estoy trabajando en el proyecto n° 5 del bootcamp de desarrollo web en Laboratoria: Movie Challenge with Framework (React con TypeScript).
 - 🌱 Estoy aprendiendo sobre React y TypeScript.
 - 👯 Deseo colaborar con proyectos de desarrollo frontend.
 - 🤔 Estoy buscando ayuda sobre la creación de tests con JS y React.
